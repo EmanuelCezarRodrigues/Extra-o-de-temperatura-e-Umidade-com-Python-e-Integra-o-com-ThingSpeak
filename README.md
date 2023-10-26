@@ -1,5 +1,4 @@
 Monitoramento de Temperatura e Umidade com Microcontrolador
-Imagem do Sensor DHT11
 
 Este repositório contém um projeto de automação que monitora a temperatura e a umidade ambiente usando um microcontrolador (provavelmente um ESP8266 ou ESP32) com um sensor DHT11. Os dados são coletados, processados e enviados para uma API da web com base em determinados critérios de temperatura e umidade.
 
@@ -26,7 +25,6 @@ ThingSpeak: Crie uma conta no ThingSpeak e configure seu próprio canal para arm
 
 Chave de API ThingSpeak: Certifique-se de que seu canal no ThingSpeak seja público ou configure as permissões apropriadas para que os dados possam ser acessados.
 
-Uso
 Carregue o código no seu microcontrolador.
 Configure as credenciais da rede Wi-Fi no código.
 Configure a URL da API do ThingSpeak no código para enviar os dados para o seu canal do ThingSpeak.
